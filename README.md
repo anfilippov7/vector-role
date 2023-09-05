@@ -8,7 +8,7 @@ Role Variables
 
 | vars | description |
 |------|-------------|
-| vector_version | Version of Vectorto install |
+| vector_version | Version of Vector to install |
 
 
 Example Playbook
